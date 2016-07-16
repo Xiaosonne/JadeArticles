@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ContentModel measureSize]:ContentModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UIArticleDetailViewController viewDidLoad]:UIArticleDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tableView">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UIArticleListViewController tableView:didSelectRowAtIndexPath:]:UIArticleListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ContentCell setModel:]:ContentCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.imageView.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
